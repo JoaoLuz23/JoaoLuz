@@ -3,6 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Bem+Vindo+ao+perfil!!" alt="Typing SVG">
   </a>
 </div>
+
+#
+
+<p align="center">Estudante de Desenvolvolvimento de sistemas pelo SENAI ITU ITALO BOLOGNA. Programador novato com conhecimento em Python. Formado em inglês com nivel C2, totalmente fluente na fala, escrita e leitura.
+  
+#
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
  
 
   <p>
