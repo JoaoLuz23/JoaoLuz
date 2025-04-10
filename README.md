@@ -24,6 +24,11 @@
  <a href="https://instagram.com/jao.ferreiraa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  <div style="display: inline_block"><br>
+   
+ <div align="center">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=JoaoLuz23&show_icons=true&theme=midnight-purple" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuz23&layout=compact&theme=midnight-purple" />
+</div>
 
 
 
